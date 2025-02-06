@@ -1,8 +1,2 @@
-# DiscordConsoleJavaScript
-Find the HAck in the "hackJS.js" file.
 
-Demonstration link : https://www.youtube.com/watch?v=yXsRuQm3ZZw
 
-NOTE- THIS IS ONLY FOR CYBERSECURITY & LEARNING PURPOSE TO KEEP OURSELVES SAFE WITH THSESE TYPES OF ATTACK VECTORS.
-
-DISCLAIMER - I AM NOT LIABLE IN ANY WAY FOR ANY ILLEGAL USAGE, USE IT ON YOUR OWN RISK.
